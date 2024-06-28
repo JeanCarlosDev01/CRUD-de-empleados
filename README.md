@@ -22,7 +22,7 @@ Este CRUD ha sido realizado usando el framework React y Bootstrap para el Front-
 </p>
 
 <p align="center">
-    <img src="/screenshots/form_create.png" width="400">
+    <img src="/screenshots/form_create.png" width="70%">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Este CRUD ha sido realizado usando el framework React y Bootstrap para el Front-
 </p>
 
 <p align="center">
-    <img src="/screenshots/msg_create.png" width="400">
+    <img src="/screenshots/msg_create.png" width="70%">
 </p>
 
 <p align="center">
@@ -38,5 +38,5 @@ Este CRUD ha sido realizado usando el framework React y Bootstrap para el Front-
 </p>
 
 <p align="center">
-    <img src="/screenshots/employes_list.png" width="400">
+    <img src="/screenshots/employes_list.png" width="70%">
 </p>
